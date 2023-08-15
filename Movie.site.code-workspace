@@ -1,0 +1,16 @@
+// {
+// 	"folders": [
+// 		{
+// 			"path": "../Movie.site"
+// 		},
+// 		{
+// 			"path": "../img"
+// 		},
+// 		{
+// 			"path": "."
+// 		}
+// 	],
+// 	"settings": {
+// 		"liveServer.settings.multiRootWorkspaceName": "Movie.site"
+// 	}
+// }
